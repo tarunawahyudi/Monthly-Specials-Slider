@@ -240,9 +240,14 @@ function monthly_shortcode() {
 
             }
         </script>
-    <?php else:
-        return false;
-    endif;     
+    <?php else: ?>
+
+            <div class="specials-box">
+                <p class="p1-home-specials">Item not found...</p>
+            </div>
+        </div> 
+        
+    <? endif;     
 
     } 
     
