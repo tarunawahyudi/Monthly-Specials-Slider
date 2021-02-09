@@ -3,7 +3,7 @@
   Plugin Name: Monthly Specials Directlabs
   Plugin URI: http://bmgcreative.com/
   Description: Monthly Specials Directlabs
-  Version: 1.0
+  Version: 1.0.2
   Author: Taruna Wahyudi
   Author URI: https://github.com/tarunawahyudi
  */
