@@ -247,7 +247,7 @@ function monthly_shortcode() {
             </div>
         </div> 
         
-    <? endif;     
+    <? endif;      
 
     } 
     
